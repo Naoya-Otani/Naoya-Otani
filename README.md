@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mujo inc and student at Keio University.<br>
+I'm currently working as software engineer (freelance) and student at Keio University.<br>
 
 
 ## 🌐 Socials:
